@@ -1,2 +1,2 @@
-This code is written to analyse data taken from IMBD for various movie reviews. These Movie reviews are divided into 3 categories Positive, Neutral, Negative, using these data points the above LSTM model is predicting the review category on the test dataset. This code also perform some basic EDA on the dataset and sort after the most commonly used word in this movie review dataset.
-The model is able to predict this with a good accuracy of 82.99%.
+This code is written to analyze data taken from IMBD for various movie reviews. These Movie reviews are divided into 3 categories Positive, Neutral, Negative, using these data points the above LSTM model is predicting the review category on the test dataset. This code also performs some basic EDA on the dataset and sorts after the most commonly used word in this movie review dataset.
+The model is able to predict this with good accuracy of 82.99%.
